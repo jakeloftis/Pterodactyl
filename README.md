@@ -1,8 +1,8 @@
 ### Pterodactyl Install
 
 <li>Step 1</li>
-
-<code>apt update</code>
+```
+apt update
 ```
 triple backtick code
 ```
