@@ -131,37 +131,13 @@ Proxy status: DNS only (off)
 ```
 
 ```
-delete
+I agree that this HTTPS request is performed: y
 ```
 
 ```
-delete
+Enter the email address for Let's Encrypt: enter your email address
 ```
 
 ```
-delete
-```
-
-```
-delete
-```
-
-```
-delete
-```
-
-```
-delete
-```
-
-```
-delete
-```
-
-```
-delete
-```
-
-```
-delete
+Proceed with installation?: y
 ```
